@@ -1,0 +1,19 @@
+@font-face { 
+	font-family: "Chunk Five"; 
+	src: url("../fonts/ChunkFive/9273.ttf"); 
+}
+
+@font-face { 
+	font-family: "Alexandria FLF"; 
+	src: url("../fonts/Alexandria FLF/AlexandriaFLF.ttf"); 
+}
+
+@font-face {
+	font-family: "Alexandria FLF - Bold";
+	src: url("../fonts/Alexandria FLF/AlexandriaFLFBold.ttf");
+}
+
+@font-face {
+	font-family: "Colaborate - Thin";
+	src: url("../fonts/Colaborate - Thin/ColabThi.otf");
+}

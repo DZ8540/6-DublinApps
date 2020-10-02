@@ -1,0 +1,283 @@
+@media screen and (max-width: 501px) {
+	.textarea {
+		margin-top: 5px !important;
+		margin-bottom: 25px !important;
+	}
+
+	.logo {
+		float: left !important;
+		margin-left: 0px !important;
+		margin-bottom: 10%;
+	}
+
+	.navbar-toggler {
+  		color: white !important;
+  		border-color: white !important;
+	}
+
+	.navbar-brand {
+		margin-right: 0px !important;
+	}
+
+	.nav-link {
+		width: 280% !important;
+		margin-right: 0px !important;
+	}
+
+	.active-1 {
+		width: 280% !important;
+		border-radius: 0px !important;
+	}
+
+	.nav-link:hover {
+		border-radius: 0px !important;
+	}
+
+	#carouselExampleIndicators {
+		margin-top: 0px !important;
+	}
+
+	.header1-1 {
+		text-align: center !important;
+	}
+
+	.header2-1 {
+		text-align: center !important;
+	}
+
+	.pharagraph-1 {
+		text-align: center !important;
+	}
+
+	.my-btn-1 {
+		margin-bottom: 30px !important;
+		margin-top: 0px !important;
+		margin-right: 24%;
+	}
+
+	.info {
+		margin-bottom: 30px;
+	}
+
+	.li-1 {
+		margin-bottom: 30px;
+	}
+
+	.bg-i-2 {
+		background-repeat: repeat !important;
+	}
+
+	.twitter-icon {
+		float: none !important;
+		text-align: center !important;
+		margin-left: 40%;
+		margin-right: 30%;
+		margin-bottom: 20px;
+	}
+
+	.span-2 {
+		margin-left: 0px !important;
+	}
+
+	.input-1 {
+		margin-left: 17%;
+    	margin-bottom: 20px;
+	}
+
+	.my-btn-4 {
+		margin-left: 95px;
+	}
+
+	.fa {
+		justify-content: center;
+		margin-bottom: 50px !important;
+	}
+
+	.padding {
+		padding-bottom: 200px;
+	}
+
+	.contact {
+		text-align: center;
+	}
+
+	.my-btn-5 {
+		float: none !important;
+		margin-left: 27%;
+	}
+
+	.navbar-1 {
+		margin-bottom: 25px;
+		padding: 0 !important;
+	}
+
+	.input-3 {
+		margin-left: 25%;
+	}
+
+	.carousel-1 {
+		margin: 0;
+	}
+
+	.my-btn-6 {
+		margin-bottom: 20px;
+	}
+
+	.nav-link-2 {
+		width: 100% !important;
+	}
+
+	.nav-item-1 {
+		margin-right: 40px !important;
+	}
+
+	.img-tabs-1 {
+		margin-bottom: 30px;
+	}
+
+	.h3-1 {
+		font-size: 17px;
+	}
+
+	.container-1 {
+		margin-bottom: 0px !important;
+	}
+
+	.play {
+		float: none !important;
+		margin-bottom: 30px;
+	}
+
+	.info {
+		float: none !important;
+		margin-top: 30px;
+	}
+
+	.header4-1 {
+		margin-top: 20px;
+	}
+
+	.my-nav-1 {
+		margin-left: 0 !important;
+		display: block !important;
+	}
+
+	.on-pad-1 {
+		text-align: center;
+	}
+
+	.my-btn-2 {
+		margin-left: 0 !important;
+	}
+
+	.first {
+		display: none !important;
+	}
+
+	.last {
+		display: none !important;
+	}
+
+	.page-link-1 {
+		margin-left: 10px !important;
+	}
+
+	.active-5 {
+		margin-left: 10px !important;
+	}
+
+	.page-link-2 {
+		margin-left: 0 !important;
+	}
+
+	.ocean {
+		margin-bottom: 15px;
+	}
+
+	.content-7 {
+		display: none;
+	}
+
+	.circle-2 {
+		margin-right: 17.7%;
+	}
+
+	.fab-4 {
+		float: left;
+		margin-top: 10px;
+	}
+
+	.span-15 {
+		margin-right: 15px;
+	}
+
+	.my-btn-9 {
+		margin-bottom: 20px;
+	}
+
+	.sale {
+		margin-left: 0px;
+	}
+
+	.h1-4 {
+		line-height: 30px;
+	}
+
+	.line {
+		display: none;
+	}
+
+	.input-5 {
+		width: 100%;
+	}
+
+	.my-btn-11 {
+		margin-right: 0px !important;
+		margin-bottom: 50px !important;
+	}
+
+	.map {
+		height: 40%;
+	}
+
+	.a-basket {
+		display: contents;
+	}
+
+	.span-19 {
+		float: left;
+	}
+
+	.input-6 {
+		margin-left: 0px;
+	}
+
+	.my-btn-12 {
+		margin: 0px;
+		display: none !important;
+	}
+
+	.input-group-1 {
+		width: 100% !important;
+	}
+
+	.nav-link-4 {
+		width: 100% !important;
+	}
+
+	.nav-item-1 {
+		display: block;
+	}
+
+	.my-btn-14 {
+		margin-bottom: 15px !important;
+	}
+
+	.my-btn-10 {
+		margin-left: 0px !important;
+	}
+
+	.nav-link-5 {
+		margin-right: 10px !important;
+	}
+}
